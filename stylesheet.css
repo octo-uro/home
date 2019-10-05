@@ -2,7 +2,6 @@ body {
   font-family: "Avenir Next";
   background-color:#fdf;
   width:100%;
-  text-align:center;
 }
 
 li {
@@ -30,6 +29,9 @@ li {
   padding: 100px 80px;
 }
 
+.copy-container{
+  text-align:center;
+}  
 .copy-container h1 {
   font-size: 122px;
 }
