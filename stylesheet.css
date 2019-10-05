@@ -29,10 +29,16 @@ li {
 }
 
 .copy-container h1 {
+  width:1200px;
+  margin-right:auto;
+  margin-left:auto;
   font-size: 122px;
 }
 
 .copy-container h2 {
+  width:700px;
+  margin-right:auto;
+  margin-left:auto;
   font-size: 38px;
 }
 
@@ -110,26 +116,3 @@ input, textarea {
   float:right;
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
